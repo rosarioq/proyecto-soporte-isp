@@ -1,0 +1,9 @@
+# Python 3.11 o superior. Versiones exactas con las que se ejecutó y probó el proyecto.
+numpy==2.4.4
+pandas==3.0.2
+matplotlib==3.10.8
+seaborn==0.13.2
+plotly==7.1.0
+streamlit==1.64.0
+# Para ejecutar el notebook en VS Code o Jupyter
+ipykernel==7.3.0

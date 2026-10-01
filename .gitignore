@@ -1,0 +1,25 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit (configuración local)
+.streamlit/
+
+# Secretos
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Nota: data/ SÍ se versiona. Los datos son sintéticos, sin datos personales,
+# y así el dashboard funciona apenas se clona el repositorio.

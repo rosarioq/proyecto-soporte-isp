@@ -1,0 +1,11 @@
+nodo,canton,zona,tecnologia,clientes_activos,critico,cuadrilla
+N-QTO-01,Quito,Urbana,FTTH,3200,False,Quito
+N-QTO-02,Quito,Urbana,FTTH,2800,False,Quito
+N-QTO-03,Quito,Urbana,FTTH,1900,False,Quito
+N-MEJ-01,Mejía,Rural,FTTH,520,False,Quito
+N-CAY-01,Cayambe,Urbana,FTTH,900,False,Norte
+N-CAY-02,Cayambe,Rural,Radioenlace,450,True,Norte
+N-PMQ-01,Pedro Moncayo,Rural,Radioenlace,300,False,Norte
+N-IBA-01,Ibarra,Urbana,FTTH,1600,False,Norte
+N-OTA-01,Otavalo,Urbana,FTTH,700,False,Norte
+N-OTA-02,Otavalo,Rural,Radioenlace,380,True,Norte

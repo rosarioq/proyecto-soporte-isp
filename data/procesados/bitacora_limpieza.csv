@@ -1,0 +1,12 @@
+paso,decision,filas_afectadas,filas_resultantes
+T1,Carga con fechas y códigos tipados,0,4909
+T2,Eliminar tickets duplicados (mismo id_ticket),73,4836
+T3,Canal faltante -> 'Sin registro' (no se elimina el ticket),48,4836
+T3,"Satisfacción sin respuesta: se conserva como NaN, no se imputa",1927,4836
+T4,"Cantón: espacios, mayúsculas y tildes unificados",386,4836
+T4,Plan: '100mbps' -> '100 Mbps',223,4836
+T5,Fecha de cierre anterior a la apertura: se intercambian,24,4836
+T5,Satisfacción fuera de la escala 1-5 -> NaN,24,4836
+T5,Verificación cantón vs. nodo (0 = coherente),0,4836
+T6,Atípicos marcados (se conservan): N1 remoto > 1.9 h; N2 remoto > 24.7 h; Visita técnica > 248.8 h,30,4836
+T7,"Variables derivadas: tiempo, turno, SLA, FCR, reincidencia, segmento",0,4836
